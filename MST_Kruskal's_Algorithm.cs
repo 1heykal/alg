@@ -103,7 +103,6 @@ namespace MST_Kruskal_s_Algorithm
     {
         public char FirstVertex { get; set; }
         public char SecondVertex { get; set; }
-
         public int Weight { get; set; }
     }
 }
